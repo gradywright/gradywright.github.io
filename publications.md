@@ -1,3 +1,5 @@
+<H2 ALIGN="CENTER"><B><FONT COLOR="silver">Select publications</FONT></B></H2>
+
 <ul>
 
 <li style="margin-bottom: 6px;">
