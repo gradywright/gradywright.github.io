@@ -1,12 +1,4 @@
 
-![Me](images/brown_trout.jpg)
-## Grady B. Wright
-Professor<br>
-[Department of Mathematics](https://math.boisestate.edu)<br>
-[Boise State University](https://www.boisestate.edu)<br>
-Boise, Idaho<br>
-`gradywright@boisestate.edu`<br>
-
 ## About me
 I received a Ph.D. in Applied Mathematics from the [University of Colorado at Boulder](https://www.colorado.edu/amath/) in 2003 and then spent the next four years as a National Science Foundation (NSF) Postdoctoral Fellow at the [University of Utah](https://www.math.utah.edu/) before joining the [Department of Mathematics](https://math.boisestate.edu) at Boise State. I have also worked as a software engineer in industry, and held visiting research positions at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) and the [Mathematical Institute](https://www.maths.ox.ac.uk/) at the University of Oxford. I currently serve as the treasurer of the [SIAM Pacific Northwest (PNW) section](https://sites.google.com/site/siampnwsection/home).<br>
 
