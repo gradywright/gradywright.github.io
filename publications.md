@@ -285,8 +285,3 @@ G. B. Wright.  Radial Basis Function Interpolation: Numerical and Analytical Dev
 <li> <a href="http://www.chebfun.org">Chebfun</a></li>
 <li> <a href="https://github.com/gradywright/spherepts">spherepts</a> </li>
 </ul>
-
-
-</BODY>
-
-</HTML>
