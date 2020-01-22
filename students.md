@@ -24,7 +24,7 @@ Thesis: [A Stable Algorithm for Divergence-Free and Curl-Free Radial Basis Funct
 Currently a Ph.D. student in [Computing at Boise State](https://www.boisestate.edu/computing)
 
 <span style="font-size:20px">[Heather Wilber](https://people.cam.cornell.edu/hdw27/)</span><br>
-M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2017<br>
+M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2016<br>
 Thesis: [Numerical Computing with Functions on the Sphere and Disk](https://scholarworks.boisestate.edu/td/1158)<br>
 Currently a Ph.D. student in [Applied Mathematics at Cornell University](https://www.cam.cornell.edu/cam)
 
