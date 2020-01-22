@@ -12,7 +12,7 @@ Undergraduate student in [Applied Mathematics](https://www.boisestate.edu/math)<
 Project: [ThunderEgg: A parallel iterative solver for elliptic equations on adaptively refined block-structured Cartesian grids](https://github.com/ThunderEgg/ThunderEgg) 
 
 
-##Former students
+## Former students
 <span style="font-size:20px">[Sage Shaw](http://shawsa.github.io/)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2019<br>
 Thesis: [Radial Basis Function Finite Difference Approximations of the Laplace-Beltrami Operator](https://scholarworks.boisestate.edu/td/1587)<br>
@@ -34,7 +34,7 @@ Thesis: [A Radial Basis Function Partition of Unity Method for Transport on the 
 Received Ph.D. (2019) in [Applied Mathematics at University of Delaware](https://www.mathsci.udel.edu/)
 
 <span style="font-size:20px">Joseph Lohmeier</span><br>
-M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2014<br>
+M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2011<br>
 Thesis: [A Fictitious Point Method for Handling Boundary Conditions in the RBF-FD Method](http://scholarworks.boisestate.edu/td/246)<br>
 
 
