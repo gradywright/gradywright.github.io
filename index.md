@@ -16,5 +16,3 @@ My research interests are in computational and applied mathematics, with a speci
 
 ## Teaching
 I very much enjoy teaching and have had the opportunity to instruct a range of mathematics courses from the undergraduate to the graduate level.  These courses inlcude calculus, ordinary/partial differential equations, linear algebra, computational mathematics, complex variables, applied math, approximation theory, numerical analysis, numerical linear algebra, numerical differential equations, and matrix methods in data science.  I have also led workshops and tutorials on radial basis function methods.
-
-<button class=
