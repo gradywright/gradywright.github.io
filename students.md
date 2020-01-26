@@ -13,7 +13,7 @@ Project: [ThunderEgg: A parallel iterative solver for elliptic equations on adap
 
 
 ## Former students
-<span style="font-size:20px">[Sage Shaw](http://shawsa.github.io/)</span><br>
+<span style="font-size:20px">[Sage Shaw](https://www.colorado.edu/amath/sage-shaw)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2019<br>
 Thesis: [Radial Basis Function Finite Difference Approximations of the Laplace-Beltrami Operator](https://scholarworks.boisestate.edu/td/1587)<br>
 Currently a Ph.D. student in [Applied Math at CU Boulder](https://www.colorado.edu/amath/)
