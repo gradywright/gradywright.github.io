@@ -4,19 +4,19 @@
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake and G. B. Wright. A stable algorithm for divergence-free radial basis functions in the flat limit. Submitted 2020 (<a href="https://arxiv.org/abs/2001.04557">arxiv</a>).
+K. P. Drake and G. B. Wright. A stable algorithm for divergence-free radial basis functions in the flat limit. <i>J. Comput. Phys.</i>, Accepted (2020) (<a href="https://arxiv.org/abs/2001.04557">arxiv</a>).
 
 </li>
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake and G. B. Wright. A Fast and Accurate Algorithm for Spherical Harmonic Analysis on HEALPix Grids with Applications to the Cosmic Microwave Background Radiation. Submitted 2019 (<a href="https://arxiv.org/abs/1904.10514">arxiv</a>).
+K. P. Drake and G. B. Wright. A Fast and Accurate Algorithm for Spherical Harmonic Analysis on HEALPix Grids with Applications to the Cosmic Microwave Background Radiation. <i>J. Comput. Phys.</i>, Accepted (2020) (<a href="https://arxiv.org/abs/1904.10514">arxiv</a>).
 
 </li>
 
 <li style="margin-bottom: 6px;">
 
-V. Shankar, G. B. Wright, and A. Narayan. A Robust Hyperviscosity Formulation for Stable RBF-FD Discretizations of Advection-Diffusion-Reaction Equations on Manifolds. Submitted 2019 (<a href="https://arxiv.org/abs/1910.07059">arxiv</a>).
+V. Shankar, G. B. Wright, and A. Narayan. A Robust Hyperviscosity Formulation for Stable RBF-FD Discretizations of Advection-Diffusion-Reaction Equations on Manifolds. <i>SIAM J. Sci. Comput.</i>, Accepted (2020) (<a href="https://arxiv.org/abs/1910.07059">arxiv</a>).
 
 </li>
 
