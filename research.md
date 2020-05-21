@@ -10,7 +10,7 @@ K. P. Drake and G. B. Wright. A stable algorithm for divergence-free radial basi
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake and G. B. Wright. A Fast and Accurate Algorithm for Spherical Harmonic Analysis on HEALPix Grids with Applications to the Cosmic Microwave Background Radiation. <i>J. Comput. Phys.</i>, Accepted (2020) (<a href="https://arxiv.org/abs/1904.10514">arxiv</a>).
+K. P. Drake and G. B. Wright. A Fast and Accurate Algorithm for Spherical Harmonic Analysis on HEALPix Grids with Applications to the Cosmic Microwave Background Radiation. <i>J. Comput. Phys.</i>, 416 (2020) (<a href="https://arxiv.org/abs/1904.10514">arxiv</a>).
 
 </li>
 
