@@ -4,7 +4,7 @@
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake and G. B. Wright. A stable algorithm for divergence-free radial basis functions in the flat limit. <i>J. Comput. Phys.</i>, Accepted (2020) (<a href="https://arxiv.org/abs/2001.04557">arxiv</a>).
+K. P. Drake and G. B. Wright. A stable algorithm for divergence-free radial basis functions in the flat limit. <i>J. Comput. Phys.</i>, 417 (2020) (<a href="https://arxiv.org/abs/2001.04557">arxiv</a>).
 
 </li>
 
