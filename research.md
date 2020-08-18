@@ -4,7 +4,7 @@
 
 <li style="margin-bottom: 6px;">
 
-V. Shankar, G. B. Wright, and A. Narayan. A Robust Hyperviscosity Formulation for Stable RBF-FD Discretizations of Advection-Diffusion-Reaction Equations on Manifolds. <i>SIAM J. Sci. Comput.</i>, Accepted (2020) (<a href="https://arxiv.org/abs/1910.07059">arxiv</a>).
+V. Shankar, G. B. Wright, and A. Narayan. A Robust Hyperviscosity Formulation for Stable RBF-FD Discretizations of Advection-Diffusion-Reaction Equations on Manifolds. <i>SIAM J. Sci. Comput.</i>, 42(4), A2371-A2401 (2020) (<a href="https://arxiv.org/abs/1910.07059">arxiv</a>).
 
 </li>
 
