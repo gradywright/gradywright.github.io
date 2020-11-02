@@ -4,6 +4,12 @@
 
 <li style="margin-bottom: 6px;">
 
+K. P. Drake, E. J. Fuselier, and G. B. Wright. A Divergence-free and Curl-free Radial Basis Function Partition of Unity Method. <i>Submitted</i> (2020) (<a href="https://arxiv.org/abs/2010.15898">arxiv</a>).
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 V. Shankar, G. B. Wright, and A. Narayan. A Robust Hyperviscosity Formulation for Stable RBF-FD Discretizations of Advection-Diffusion-Reaction Equations on Manifolds. <i>SIAM J. Sci. Comput.</i>, 42(4), A2371-A2401 (2020) (<a href="https://arxiv.org/abs/1910.07059">arxiv</a>).
 
 </li>
