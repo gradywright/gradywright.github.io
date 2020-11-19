@@ -4,6 +4,12 @@
 
 <li style="margin-bottom: 6px;">
 
+V. Shankar, G. B. Wright, and A. L. Fogelson. An Efficient High-Order Meshless Method for Advection-Diffusion Equations on Time-Varying Irregular Domains. <i>Submitted</i> (2020) (<a href="https://arxiv.org/abs/2011.06715">arxiv</a>).
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 K. P. Drake, E. J. Fuselier, and G. B. Wright. A Divergence-free and Curl-free Radial Basis Function Partition of Unity Method. <i>Submitted</i> (2020) (<a href="https://arxiv.org/abs/2010.15898">arxiv</a>).
 
 </li>

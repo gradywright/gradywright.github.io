@@ -1,10 +1,16 @@
-## Current courses: Spring 2020
+## Current courses: Fall 2020
+
+- Numerical methods for differential equations
+
+- Introduction to Linear Algebra
+
+## Previous courses
+
+### Spring 2020:
 
 - Numerical Methods II: Numerical Linear Algebra ([MATH 566](https://math.boisestate.edu/~wright/courses/m566))
 
 - Special topics: Matrix Methods in Data Science ([MATH 497/597](https://math.boisestate.edu/~wright/courses/m597))
-
-## Previous courses
 
 ### Fall 2019: 
 
