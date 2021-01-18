@@ -7,7 +7,7 @@ Project: Numerical methods for coupled bulk-surface partial differential equatio
 
 ### Ph.D. students
 <span style="font-size:20px">Kathryn Drake</span><br>
-Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/)<br>
+Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2020<br>
 Thesis: A Collection of Fast Algorithms for Scalar and Vector-Valued Data on Irregular Domains: Spherical Harmonic Analysis, Divergence-Free/Curl-Free Radial Basis Functions, and Implicit Surface Reconstruction<br>
 Currently a research scientist at [NAVWAR](https://www.public.navy.mil/navwar/Pages/SPAWAR-Welcome.aspx)
 
