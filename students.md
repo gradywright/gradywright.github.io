@@ -12,7 +12,7 @@ Project: [ThunderEgg: A parallel iterative solver for elliptic equations on adap
 <span style="font-size:20px">Kathryn Drake</span><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing)<br>
 Thesis: A Collection of Fast Algorithms for Scalar and Vector-Valued Data on Irregular Domains: Spherical Harmonic Analysis, Divergence-Free/Curl-Free Radial Basis Functions, and Implicit Surface Reconstruction<br>
-Currently a research scientist at [NAVWAR][https://www.public.navy.mil/navwar/Pages/SPAWAR-Welcome.aspx]
+Currently a research scientist at [NAVWAR](https://www.public.navy.mil/navwar/Pages/SPAWAR-Welcome.aspx)
 <span style="font-size:20px">[Sage Shaw](https://www.colorado.edu/amath/sage-shaw)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2019<br>
 Thesis: [Radial Basis Function Finite Difference Approximations of the Laplace-Beltrami Operator](https://scholarworks.boisestate.edu/td/1587)<br>
