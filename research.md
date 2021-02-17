@@ -16,7 +16,7 @@ V. Shankar, G. B. Wright, and A. L. Fogelson. An Efficient High-Order Meshless M
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake, E. J. Fuselier, and G. B. Wright. A Divergence-free and Curl-free Radial Basis Function Partition of Unity Method. <i>Submitted</i> (2020) (<a href="https://arxiv.org/abs/2010.15898">arxiv</a>).
+K. P. Drake, E. J. Fuselier, and G. B. Wright. A Partition of Unity Method for Divergence-free or Curl-free Radial Basis Function Approximation. <i>Submitted</i> (2020) (<a href="https://arxiv.org/abs/2010.15898">arxiv</a>).
 
 </li>
 
