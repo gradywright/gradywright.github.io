@@ -16,13 +16,13 @@ V. Shankar, G. B. Wright, and A. L. Fogelson. An Efficient High-Order Meshless M
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake, E. J. Fuselier, and G. B. Wright. A Partition of Unity Method for Divergence-free or Curl-free Radial Basis Function Approximation. <i>Submitted</i> (2020) (<a href="https://arxiv.org/abs/2010.15898">arxiv</a>).
+V. Shankar, G. B. Wright, and A. Narayan. A Robust Hyperviscosity Formulation for Stable RBF-FD Discretizations of Advection-Diffusion-Reaction Equations on Manifolds. <i>SIAM J. Sci. Comput.</i>, 42(4), A2371-A2401 (2020) (<a href="https://arxiv.org/abs/1910.07059">arxiv</a>).
 
 </li>
 
 <li style="margin-bottom: 6px;">
 
-V. Shankar, G. B. Wright, and A. Narayan. A Robust Hyperviscosity Formulation for Stable RBF-FD Discretizations of Advection-Diffusion-Reaction Equations on Manifolds. <i>SIAM J. Sci. Comput.</i>, 42(4), A2371-A2401 (2020) (<a href="https://arxiv.org/abs/1910.07059">arxiv</a>).
+K. P. Drake, E. J. Fuselier, and G. B. Wright. A Partition of Unity Method for Divergence-free or Curl-free Radial Basis Function Approximation. <i>SIAM J. Sci. Comput.</i> Accepted (2021) (<a href="https://arxiv.org/abs/2010.15898">arxiv</a>).
 
 </li>
 
