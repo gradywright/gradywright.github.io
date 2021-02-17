@@ -8,7 +8,7 @@ Project: Numerical methods for coupled bulk-surface partial differential equatio
 ### Ph.D. students
 <span style="font-size:20px">Kathryn Drake</span><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2020<br>
-Thesis: A Collection of Fast Algorithms for Scalar and Vector-Valued Data on Irregular Domains: Spherical Harmonic Analysis, Divergence-Free/Curl-Free Radial Basis Functions, and Implicit Surface Reconstruction<br>
+Thesis: [A Collection of Fast Algorithms for Scalar and Vector-Valued Data on Irregular Domains: Spherical Harmonic Analysis, Divergence-Free/Curl-Free Radial Basis Functions, and Implicit Surface Reconstruction](https://scholarworks.boisestate.edu/td/1759/)<br>
 Currently a research scientist at [NAVWAR](https://www.public.navy.mil/navwar/Pages/SPAWAR-Welcome.aspx)
 
 ### M.S. students
@@ -20,7 +20,7 @@ Currently a Ph.D. student in [Applied Math at CU Boulder](https://www.colorado.e
 <span style="font-size:20px">Kathryn Drake</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2017<br>
 Thesis: [A Stable Algorithm for Divergence-Free and Curl-Free Radial Basis Functions in the Flat Limit](https://scholarworks.boisestate.edu/td/1290)<br>
-Currently a Ph.D. student in [Computing at Boise State](https://www.boisestate.edu/computing)
+Received Ph.D. (2020) in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/) at Boise State University
 
 <span style="font-size:20px">[Heather Wilber](https://people.cam.cornell.edu/hdw27/)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2016<br>
