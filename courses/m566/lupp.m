@@ -1,4 +1,4 @@
-function [A,p,gf] = lupp(A)
+function [A,p] = lupp(A)
 %lupp  Computes the LU decomposition of A with partial pivoting
 %
 %   [A,p] = lupp(A) Computes the LU decomposition of A with partial
@@ -17,7 +17,6 @@ function [A,p,gf] = lupp(A)
 
 n = size(A,1);
 p = (1:n)';
-% maxA = max(abs(A(:)));
 
 for k=1:n-1
     % Find the row in column k that contains the largest entry in magnitude
@@ -31,6 +30,5 @@ for k=1:n-1
     A(J,k) = A(J,k)/A(k,k);
     A(J,J) = A(J,J) - A(J,k)*A(k,J);
 end
-gf = 0;
-% gf = max(max(abs(triu(A))))/maxA;
+
 end
