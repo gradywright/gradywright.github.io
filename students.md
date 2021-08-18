@@ -3,6 +3,10 @@
 Ph.D. student in the [Computing Program](https://www.boisestate.edu/computing)<br>
 Project: Numerical methods for coupled bulk-surface partial differential equations
 
+<span style="font-size:20px">[Michael Chiwere]</span><br>
+Ph.D. student in the [Computing Program](https://www.boisestate.edu/computing)<br>
+Project: Spectral methods for complex fluids
+
 ## Former students
 
 ### Ph.D. students
@@ -25,7 +29,7 @@ Received Ph.D. (2020) in [Computational Math, Science & Engineering](https://www
 <span style="font-size:20px">[Heather Wilber](https://people.cam.cornell.edu/hdw27/)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2016<br>
 Thesis: [Numerical Computing with Functions on the Sphere and Disk](https://scholarworks.boisestate.edu/td/1158)<br>
-Currently a Ph.D. student in [Applied Mathematics at Cornell University](https://www.cam.cornell.edu/cam)
+Currently a NSF Postdoctoral Fellow at the [Oden Institute for Computational Engineering & Sciences](https://www.oden.utexas.edu)
 
 <span style="font-size:20px">[Kevin Aiton](https://github.com/kevinwaiton)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2014<br>
