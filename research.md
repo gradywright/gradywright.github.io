@@ -10,7 +10,7 @@ K. P. Drake, E. J. Fuselier, and G. B. Wright. Implicit Surface Reconstruction w
 
 <li style="margin-bottom: 6px;">
 
-V. Shankar, G. B. Wright, and A. L. Fogelson. An Efficient High-Order Meshless Method for Advection-Diffusion Equations on Time-Varying Irregular Domains. <i>J. Comput. Phys.</i>, In Press (2021) (<a href="https://arxiv.org/abs/2011.06715">arxiv</a>).
+V. Shankar, G. B. Wright, and A. L. Fogelson. An Efficient High-Order Meshless Method for Advection-Diffusion Equations on Time-Varying Irregular Domains. <i>J. Comput. Phys.</i>, 445, 110663 (2021) (<a href="https://arxiv.org/abs/2011.06715">arxiv</a>).
 
 </li>
 
@@ -28,19 +28,19 @@ K. P. Drake, E. J. Fuselier, and G. B. Wright. A Partition of Unity Method for D
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake and G. B. Wright. A stable algorithm for divergence-free radial basis functions in the flat limit. <i>J. Comput. Phys.</i>, 417 (2020) (<a href="https://arxiv.org/abs/2001.04557">arxiv</a>).
+K. P. Drake and G. B. Wright. A stable algorithm for divergence-free radial basis functions in the flat limit. <i>J. Comput. Phys.</i>, 417, 109595 (2020) (<a href="https://arxiv.org/abs/2001.04557">arxiv</a>).
 
 </li>
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake and G. B. Wright. A Fast and Accurate Algorithm for Spherical Harmonic Analysis on HEALPix Grids with Applications to the Cosmic Microwave Background Radiation. <i>J. Comput. Phys.</i>, 416 (2020) (<a href="https://arxiv.org/abs/1904.10514">arxiv</a>).
+K. P. Drake and G. B. Wright. A Fast and Accurate Algorithm for Spherical Harmonic Analysis on HEALPix Grids with Applications to the Cosmic Microwave Background Radiation. <i>J. Comput. Phys.</i>, 416, 109544 (2020) (<a href="https://arxiv.org/abs/1904.10514">arxiv</a>).
 
 </li>
 
 <li style="margin-bottom: 6px;">
 
-V. Shankar and G. B. Wright. Mesh-free semi-Lagrangian methods for transport on a sphere using radial basis functions. <i>J. Comput. Phys.</i>, 366 (2018), 170-190. (<a href="papers/SWJCP2018.pdf">pdf</a>, <a href="bibtex/SWJCP2018.bib">bibtex</a>).
+V. Shankar and G. B. Wright. Mesh-free semi-Lagrangian methods for transport on a sphere using radial basis functions. <i>J. Comput. Phys.</i>, 366, 170-190 (2018). (<a href="papers/SWJCP2018.pdf">pdf</a>, <a href="bibtex/SWJCP2018.bib">bibtex</a>).
 
 </li>
 
