@@ -1,16 +1,19 @@
 ## Current students
 <span style="font-size:20px">[Andrew Jones](https://andrewj3.github.io/)</span><br>
+<img src="/images/Andrew-Jones.jpg" alt="Andrew Jones"/><br>
 Ph.D. student in the [Computing Program](https://www.boisestate.edu/computing)<br>
 Project: Numerical methods for coupled bulk-surface partial differential equations
 
-<span style="font-size:20px">[Michael Chiwere]</span><br>
+<span style="font-size:20px">[Michael Chiwere](https://www.boisestate.edu/computing/directory/student-directory/michael-chiwere/)</span><br>
+<img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere"/><br>
 Ph.D. student in the [Computing Program](https://www.boisestate.edu/computing)<br>
 Project: Spectral methods for complex fluids
 
 ## Former students
 
 ### Ph.D. students
-<span style="font-size:20px">Kathryn Drake</span><br>
+<span style="font-size:20px">[Kathryn Drake](https://www.linkedin.com/in/kathryn-drake-ph-d-5708a669)</span><br>
+<img src="/images/Kathryn-Drake.jpg" alt="Kathryn Drake"/><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2020<br>
 Thesis: [A Collection of Fast Algorithms for Scalar and Vector-Valued Data on Irregular Domains: Spherical Harmonic Analysis, Divergence-Free/Curl-Free Radial Basis Functions, and Implicit Surface Reconstruction](https://scholarworks.boisestate.edu/td/1759/)<br>
 Currently a research scientist at [NAVWAR](https://www.public.navy.mil/navwar/Pages/SPAWAR-Welcome.aspx)
