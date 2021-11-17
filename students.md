@@ -16,7 +16,8 @@ Project: Spectral methods for complex fluids
 <img src="/images/Kathryn-Drake.jpg" alt="Kathryn Drake" style="height: 250px; width:200px;"/><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2020<br>
 Thesis: [A Collection of Fast Algorithms for Scalar and Vector-Valued Data on Irregular Domains: Spherical Harmonic Analysis, Divergence-Free/Curl-Free Radial Basis Functions, and Implicit Surface Reconstruction](https://scholarworks.boisestate.edu/td/1759/)<br>
-Currently a research scientist at [NAVWAR](https://www.public.navy.mil/navwar/Pages/SPAWAR-Welcome.aspx)
+<!-- Currently a research scientist at [NAVWAR](https://www.public.navy.mil/navwar/Pages/SPAWAR-Welcome.aspx) -->
+Currently a Senior Automation Engineer at Apple
 
 ### M.S. students
 <span style="font-size:20px">[Sage Shaw](https://www.colorado.edu/amath/sage-shaw)</span><br>
