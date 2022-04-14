@@ -4,6 +4,13 @@
 
 <li style="margin-bottom: 6px;">
 
+G. B. Wright, A. M. Jones, and V. Shankar. MGM: A meshfree geometric multilevel method for systems arising from
+  elliptic equations on point cloud surfaces. <i>Submitted</i> (2022) (<a href="http://arxiv.org/abs/2204.06154">arxiv</a>).
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 K. P. Drake, E. J. Fuselier, and G. B. Wright. Implicit Surface Reconstruction with a Curl-free Radial Basis Function Partition of Unity Method. <i>Submitted</i> (2022) (<a href="http://arxiv.org/abs/2101.05940">arxiv</a>).
 
 </li>
