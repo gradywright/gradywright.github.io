@@ -11,7 +11,7 @@ G. B. Wright, A. M. Jones, and V. Shankar. MGM: A meshfree geometric multilevel 
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake, E. J. Fuselier, and G. B. Wright. Implicit Surface Reconstruction with a Curl-free Radial Basis Function Partition of Unity Method. <i>Submitted</i> (2022) (<a href="http://arxiv.org/abs/2101.05940">arxiv</a>).
+K. P. Drake, E. J. Fuselier, and G. B. Wright. Implicit Surface Reconstruction with a Curl-free Radial Basis Function Partition of Unity Method. <i>SIAM J. Sci. Comput.</i> Accepted (2022) (<a href="http://arxiv.org/abs/2101.05940">arxiv</a>).
 
 </li>
 
