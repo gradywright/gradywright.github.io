@@ -5,13 +5,13 @@
 <li style="margin-bottom: 6px;">
 
 G. B. Wright, A. M. Jones, and V. Shankar. MGM: A meshfree geometric multilevel method for systems arising from
-  elliptic equations on point cloud surfaces. <i>Accepted</i> (2022) (<a href="http://arxiv.org/abs/2204.06154">arxiv</a>).
+  elliptic equations on point cloud surfaces. <i>SIAM J. Sci. Comput.</i> 45, A312-A337 (2023) (<a href="http://arxiv.org/abs/2204.06154">arxiv</a>, <a href="https://epubs.siam.org/doi/10.1137/22M1490338">journal</a>).
 
 </li>
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake, E. J. Fuselier, and G. B. Wright. Implicit Surface Reconstruction with a Curl-free Radial Basis Function Partition of Unity Method. <i>SIAM J. Sci. Comput.</i> 42, A3018-A3040 (2022) (<a href="http://arxiv.org/abs/2101.05940">arxiv</a>).
+K. P. Drake, E. J. Fuselier, and G. B. Wright. Implicit Surface Reconstruction with a Curl-free Radial Basis Function Partition of Unity Method. <i>SIAM J. Sci. Comput.</i> 42, A3018-A3040 (2022) (<a href="http://arxiv.org/abs/2101.05940">arxiv</a>, <a href="https://epubs.siam.org/doi/10.1137/22M1474485">journal</a>).
 
 </li>
 
@@ -23,7 +23,7 @@ V. Shankar, G. B. Wright, and A. L. Fogelson. An Efficient High-Order Meshless M
 
 <li style="margin-bottom: 6px;">
 
-K. P. Drake, E. J. Fuselier, and G. B. Wright. A Partition of Unity Method for Divergence-free or Curl-free Radial Basis Function Approximation. <i>SIAM J. Sci. Comput.</i> 43(3), A1950-A1974 (2021) (<a href="https://arxiv.org/abs/2010.15898">arxiv</a>).
+K. P. Drake, E. J. Fuselier, and G. B. Wright. A Partition of Unity Method for Divergence-free or Curl-free Radial Basis Function Approximation. <i>SIAM J. Sci. Comput.</i> 43(3), A1950-A1974 (2021) (<a href="https://arxiv.org/abs/2010.15898">arxiv</a>, <a href="https://epubs.siam.org/doi/10.1137/20M1373505">journal</a>).
 
 </li>
 
