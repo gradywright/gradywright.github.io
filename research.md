@@ -4,6 +4,12 @@
 
 <li style="margin-bottom: 6px;">
 
+A. M. Jones, P. A. Bosler, P. A. Kuberry, and G. B. Wright. Generalized moving least squares vs. radial basis function finite difference methods for approximating surface derivatives. <i>Comput. Math. Appl.</i> 147, 1--13 (2023) (<a href="">arxiv</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0898122123003097">journal</a>).
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 G. B. Wright, A. M. Jones, and V. Shankar. MGM: A meshfree geometric multilevel method for systems arising from
   elliptic equations on point cloud surfaces. <i>SIAM J. Sci. Comput.</i> 45, A312-A337 (2023) (<a href="http://arxiv.org/abs/2204.06154">arxiv</a>, <a href="https://epubs.siam.org/doi/10.1137/22M1490338">journal</a>).
 
