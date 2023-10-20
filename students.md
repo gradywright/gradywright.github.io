@@ -9,7 +9,7 @@ Project: Spectral methods for complex fluids
 ### Ph.D. students
 <span style="font-size:20px">[Andrew Jones](https://andrewj3.github.io/)</span><br>
 <img src="/images/Andrew-Jones.jpg" alt="Andrew Jones" style="height: 250px; width:200px;"/><br>
-Ph.D. Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2022<br>
+Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2022<br>
 Thesis: [Meshfree Methods for PDEs on Surfaces](https://scholarworks.boisestate.edu/td/2023/)<br>
 Currently a Postdoc at Sandia National Laboratories
 
