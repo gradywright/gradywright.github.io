@@ -31,10 +31,10 @@ M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2017<br>
 Thesis: [A Stable Algorithm for Divergence-Free and Curl-Free Radial Basis Functions in the Flat Limit](https://scholarworks.boisestate.edu/td/1290)<br>
 Received Ph.D. (2020) in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/) at Boise State University
 
-<span style="font-size:20px">[Heather Wilber](https://people.cam.cornell.edu/hdw27/)</span><br>
+<span style="font-size:20px">[Heather Wilber](https://heatherw3521.github.io)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2016<br>
 Thesis: [Numerical Computing with Functions on the Sphere and Disk](https://scholarworks.boisestate.edu/td/1158)<br>
-Currently a NSF Postdoctoral Fellow at the [Oden Institute for Computational Engineering & Sciences](https://www.oden.utexas.edu)
+Currently an Assistant Professor in the Department of Applied Math at the University of Washington.
 
 <span style="font-size:20px">[Kevin Aiton](https://github.com/kevinwaiton)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2014<br>
