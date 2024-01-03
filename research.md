@@ -4,7 +4,7 @@
 
 <li style="margin-bottom: 6px;">
 
-T. Hangelbroek, C. Rieger, and G. B. Wright. Spectral stability and perturbation results for kernel differentiation matrices on the sphere. Submitted, <a href="https://arxiv.org/abs/2311.06982">arXiv:2311.06982</a>.
+T. Hangelbroek, C. Rieger, and G. B. Wright. Spectral stability and perturbation results for kernel differentiation matrices on the sphere. Submitted (2023), <a href="https://arxiv.org/abs/2311.06982">arXiv:2311.06982</a>.
 
 </li>
 
