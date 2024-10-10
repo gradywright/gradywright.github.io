@@ -4,6 +4,19 @@
 
 <li style="margin-bottom: 6px;">
 
+M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere and the disk. Submitted (2024), <a href="https://arxiv.org/abs/2410.05439">arXiv:2410.05439</a>.
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
+L. Li, J. McClure, G. B. Wright, J. P. Whitehead, J. Wang, and Z. Pan. Error propagation of direct pressure gradient integration and a Helmholtz-Hodge decomposition based pressure field reconstruction method for image velocimetry. Submitted (2024), <a href="https://arxiv.org/abs/2407.15344">arXiv:2407.15344</a>.
+
+</li>
+
+
+<li style="margin-bottom: 6px;">
+
 T. Hangelbroek, C. Rieger, and G. B. Wright. Spectral stability and perturbation results for kernel differentiation matrices on the sphere. Submitted (2023), <a href="https://arxiv.org/abs/2311.06982">arXiv:2311.06982</a>.
 
 </li>
