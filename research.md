@@ -4,6 +4,12 @@
 
 <li style="margin-bottom: 6px;">
 
+T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reproductions. Submitted (2024), <a href="https://arxiv.org/abs/2410.12973">arXiv:2410.12973</a>.
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere and the disk. Submitted (2024), <a href="https://arxiv.org/abs/2410.05439">arXiv:2410.05439</a>.
 
 </li>
