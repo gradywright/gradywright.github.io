@@ -10,7 +10,7 @@ T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reprod
 
 <li style="margin-bottom: 6px;">
 
-M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere and the disk. Submitted (2024), <a href="https://arxiv.org/abs/2410.05439">arXiv:2410.05439</a>.
+M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere and the disk. <i> BIT</i>, In Revision (2024), <a href="https://arxiv.org/abs/2410.05439">arXiv:2410.05439</a>.
 
 </li>
 
@@ -23,7 +23,7 @@ L. Li, J. McClure, G. B. Wright, J. P. Whitehead, J. Wang, and Z. Pan. Error pro
 
 <li style="margin-bottom: 6px;">
 
-T. Hangelbroek, C. Rieger, and G. B. Wright. Spectral stability and perturbation results for kernel differentiation matrices on the sphere. Submitted (2023), <a href="https://arxiv.org/abs/2311.06982">arXiv:2311.06982</a>.
+T. Hangelbroek, C. Rieger, and G. B. Wright. Spectral stability and perturbation results for kernel differentiation matrices on the sphere. <i>Numerische Mathematik</i>, Accepted (2024), <a href="https://arxiv.org/abs/2311.06982">arXiv:2311.06982</a>.
 
 </li>
 
