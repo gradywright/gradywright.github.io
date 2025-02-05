@@ -10,7 +10,7 @@ T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reprod
 
 <li style="margin-bottom: 6px;">
 
-M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere and the disk. <i> BIT</i>, In Revision (2024), <a href="https://arxiv.org/abs/2410.05439">arXiv:2410.05439</a>.
+M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere and the disk. <i> BIT</i>, Accepted (2025), <a href="https://arxiv.org/abs/2410.05439">arXiv:2410.05439</a>.
 
 </li>
 
