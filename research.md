@@ -10,20 +10,20 @@ T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reprod
 
 <li style="margin-bottom: 6px;">
 
-M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere and the disk. <i> BIT</i>, Accepted (2025), <a href="https://arxiv.org/abs/2410.05439">arXiv:2410.05439</a>.
+M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere and the disk. <i> BIT</i>, 65, 14 (2025) (<a href="https://arxiv.org/abs/2410.05439">arXiv:2410.05439</a>, <a href="https://link.springer.com/article/10.1007/s10543-025-01055-y#citeas">journal</a>).
 
 </li>
 
 <li style="margin-bottom: 6px;">
 
-L. Li, J. McClure, G. B. Wright, J. P. Whitehead, J. Wang, and Z. Pan. Error propagation of direct pressure gradient integration and a Helmholtz-Hodge decomposition based pressure field reconstruction method for image velocimetry. <i>Experiments in Fluids</i>, Accepted (2025), <a href="https://arxiv.org/abs/2407.15344">arXiv:2407.15344</a>.
+L. Li, J. McClure, G. B. Wright, J. P. Whitehead, J. Wang, and Z. Pan. Error propagation of direct pressure gradient integration and a Helmholtz-Hodge decomposition based pressure field reconstruction method for image velocimetry. <i>Experiments in Fluids</i>, 66, 92 (2025) (<a href="https://arxiv.org/abs/2407.15344">arXiv:2407.15344</a>, <a href="https://doi.org/10.1007/s00348-025-03991-5">journal</a>).
 
 </li>
 
 
 <li style="margin-bottom: 6px;">
 
-T. Hangelbroek, C. Rieger, and G. B. Wright. Spectral stability and perturbation results for kernel differentiation matrices on the sphere. <i>Numerische Mathematik</i>, Accepted (2024), <a href="https://arxiv.org/abs/2311.06982">arXiv:2311.06982</a>.
+T. Hangelbroek, C. Rieger, and G. B. Wright. Spectral stability and perturbation results for kernel differentiation matrices on the sphere. <i>Numerische Mathematik</i>, 157, 505--538 (2025) (<a href="https://arxiv.org/abs/2311.06982">arXiv:2311.06982</a>, <a href="https://link.springer.com/article/10.1007/s00211-025-01449-8">journal</a>).
 
 </li>
 
