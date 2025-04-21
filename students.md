@@ -1,12 +1,14 @@
 ## Current students
-<span style="font-size:20px">[Michael Chiwere](https://www.boisestate.edu/computing/directory/student-directory/michael-chiwere/)</span><br>
-<img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere" style="height: 250px; width:200px;"/><br>
-Ph.D. student in the [Computing Program](https://www.boisestate.edu/computing)<br>
-Project: Spectral methods for complex fluids
 
 ## Former students
 
 ### Ph.D. students
+<span style="font-size:20px">[Michael Chiwere](https://www.boisestate.edu/computing/directory/student-directory/michael-chiwere/)</span><br>
+<img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere" style="height: 250px; width:200px;"/><br>
+Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2022<br>
+Thesis: [New developments in the Double Fourier Sphere Method: 
+Barycentric Interpolation, Semi-Lagrangian Advection, and a Hybrid Lagrangian-Eulerian Scheme](https://scholarworks.boisestate.edu/)<br>
+
 <span style="font-size:20px">[Andrew Jones](https://andrewj3.github.io/)</span><br>
 <img src="/images/Andrew-Jones.jpg" alt="Andrew Jones" style="height: 250px; width:200px;"/><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2022<br>
