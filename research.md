@@ -4,6 +4,12 @@
 
 <li style="margin-bottom: 6px;">
 
+T. Hangelbroek, C. Rieger, and G. B. Wright. A Semi-Lagrangian scheme on embedded manifolds using generalized local polynomial reproductions. Submitted (2025), <a href="https://arxiv.org/abs/2508.10344">arXiv:2508.10344</a>.
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reproductions. Submitted (2024), <a href="https://arxiv.org/abs/2410.12973">arXiv:2410.12973</a>.
 
 </li>
