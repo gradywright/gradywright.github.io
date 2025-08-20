@@ -22,7 +22,7 @@ M. Chiwere and G. B. Wright. Barycentric interpolation formulas for the sphere a
 
 <li style="margin-bottom: 6px;">
 
-L. Li, J. McClure, G. B. Wright, J. P. Whitehead, J. Wang, and Z. Pan. Error propagation of direct pressure gradient integration and a Helmholtz-Hodge decomposition based pressure field reconstruction method for image velocimetry. <i>Experiments in Fluids</i>, 66, 92 (2025) (<a href="https://arxiv.org/abs/2407.15344">arXiv:2407.15344</a>, <a href="https://doi.org/10.1007/s00348-025-03991-5">journal</a>).
+L. Li, J. McClure, G. B. Wright, J. P. Whitehead, J. Wang, and Z. Pan. Error propagation of direct pressure gradient integration and a Helmholtz-Hodge decomposition-based pressure field reconstruction method for image velocimetry. <i>Experiments in Fluids</i>, 66, 92 (2025) (<a href="https://arxiv.org/abs/2407.15344">arXiv:2407.15344</a>, <a href="https://doi.org/10.1007/s00348-025-03991-5">journal</a>).
 
 </li>
 
