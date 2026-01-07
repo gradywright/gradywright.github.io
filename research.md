@@ -10,7 +10,7 @@ T. Hangelbroek, C. Rieger, and G. B. Wright. A Semi-Lagrangian scheme on embedde
 
 <li style="margin-bottom: 6px;">
 
-T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reproductions. Foundations of Computational Mathematics, Accepted (2026), <a href="https://arxiv.org/abs/2410.12973">arXiv:2410.12973</a>.
+T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reproductions. <i>Foundations of Computational Mathematics</i>, Accepted (2026), <a href="https://arxiv.org/abs/2410.12973">arXiv:2410.12973</a>.
 
 </li>
 
