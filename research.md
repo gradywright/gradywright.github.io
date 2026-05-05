@@ -4,6 +4,12 @@
 
 <li style="margin-bottom: 6px;">
 
+M. Chiwere, D. Fortunato, and G. B. Wright. Spectral interpolation in semi-implicit semi-Lagrangian methods for shallow water equations on the sphere. Submitted (2026), <a href="https://arxiv.org/abs/2605.01313">arXiv:2605.01313</a>.
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 T. Hangelbroek, C. Rieger, and G. B. Wright. A Semi-Lagrangian scheme on embedded manifolds using generalized local polynomial reproductions. <i>SIAM Journal on Numerical Analysis</i>, Accepted (2026), <a href="https://arxiv.org/abs/2508.10344">arXiv:2508.10344</a>.
 
 </li>
