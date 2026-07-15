@@ -3,6 +3,14 @@
 ## Former students
 
 ### Ph.D. students
+<span style="font-size:20px">[Jenny Thibodeau](https://www.boisestate.edu/computing/about-us/computingdirectory/current-students-directory/jenny-thibodeau/)</span><br>
+<img src="/images/Jenny-Thibodeau.jpg" alt="Jenny Thibodeau" style="height: 250px; width:200px;"/><br>
+Current student in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/)<br>
+
+<span style="font-size:20px">[Desmond Boateng](https://www.boisestate.edu/computing/about-us/computingdirectory/current-students-directory/desmond-boateng/)</span><br>
+<img src="/images/Michael-Chiwere.jpg" alt="Demsond Boateng" style="height: 250px; width:200px;"/><br>
+Current student in [Data Science](https://www.boisestate.edu/computing/emphasis/cmse/)<br>
+
 <span style="font-size:20px">[Michael Chiwere](https://www.boisestate.edu/computing/directory/student-directory/michael-chiwere/)</span><br>
 <img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere" style="height: 250px; width:200px;"/><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2025<br>
@@ -26,7 +34,7 @@ Currently a Senior Automation Engineer at Apple
 <span style="font-size:20px">[Sage Shaw](https://www.colorado.edu/amath/sage-shaw)</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2019<br>
 Thesis: [Radial Basis Function Finite Difference Approximations of the Laplace-Beltrami Operator](https://scholarworks.boisestate.edu/td/1587)<br>
-Currently a Ph.D. student in [Applied Math at CU Boulder](https://www.colorado.edu/amath/)
+Received Ph.D. (2025) in [Applied Mathematics at CU Boulder](https://www.colorado.edu/amath/)
 
 <span style="font-size:20px">Kathryn Drake</span><br>
 M.S. in [Applied Mathematics](https://www.boisestate.edu/math), 2017<br>
