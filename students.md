@@ -1,27 +1,29 @@
 ## Current students
 
-## Former students
-
 ### Ph.D. students
 <span style="font-size:20px">[Jenny Thibodeau](https://www.boisestate.edu/computing/about-us/computingdirectory/current-students-directory/jenny-thibodeau/)</span><br>
 <img src="/images/Jenny-Thibodeau.jpg" alt="Jenny Thibodeau" style="height: 250px; width:200px;"/><br>
-Current student in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/)<br>
+[Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/) Emphasis<br>
 
 <span style="font-size:20px">[Desmond Boateng](https://www.boisestate.edu/computing/about-us/computingdirectory/current-students-directory/desmond-boateng/)</span><br>
-<img src="/images/Michael-Chiwere.jpg" alt="Demsond Boateng" style="height: 250px; width:200px;"/><br>
-Current student in [Data Science](https://www.boisestate.edu/computing/emphasis/cmse/)<br>
+<img src="/images/Desmond-Boateng.jpg" alt="Demsond Boateng" style="height: 250px; width:200px;"/><br>
+Current student in [Data Science](https://www.boisestate.edu/computing/emphasis/cmse/) Emphasis<br>
 
+## Former students
+
+### Ph.D. students
 <span style="font-size:20px">[Michael Chiwere](https://www.boisestate.edu/computing/directory/student-directory/michael-chiwere/)</span><br>
 <img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere" style="height: 250px; width:200px;"/><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2025<br>
 Thesis: [New developments in the Double Fourier Sphere Method: 
 Barycentric Interpolation, Semi-Lagrangian Advection, and a Hybrid Lagrangian-Eulerian Scheme](https://scholarworks.boisestate.edu/)<br>
+Currently a Lecturer at Malawi University of Busisness and Applied Sciences
 
 <span style="font-size:20px">[Andrew Jones](https://andrewj3.github.io/)</span><br>
 <img src="/images/Andrew-Jones.jpg" alt="Andrew Jones" style="height: 250px; width:200px;"/><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2022<br>
 Thesis: [Meshfree Methods for PDEs on Surfaces](https://scholarworks.boisestate.edu/td/2023/)<br>
-Currently a Postdoc at Sandia National Laboratories
+Currently a Staff Scientist at Scitec
 
 <span style="font-size:20px">[Kathryn Drake](https://www.linkedin.com/in/kathryn-drake-ph-d-5708a669)</span><br>
 <img src="/images/Kathryn-Drake.jpg" alt="Kathryn Drake" style="height: 250px; width:200px;"/><br>
