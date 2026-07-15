@@ -2,18 +2,18 @@
 
 ### Ph.D. students
 <span style="font-size:20px">[Jenny Thibodeau](https://www.boisestate.edu/computing/about-us/computingdirectory/current-students-directory/jenny-thibodeau/)</span><br>
-<img src="/images/Jenny-Thibodeau.jpg" alt="Jenny Thibodeau" style="height: 250px; width:200px;"/><br>
+<img src="/images/Jenny-Thibodeau.jpg" alt="Jenny Thibodeau" style="height: 200px; width:200px;"/><br>
 [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/) Emphasis<br>
 
 <span style="font-size:20px">[Desmond Boateng](https://www.boisestate.edu/computing/about-us/computingdirectory/current-students-directory/desmond-boateng/)</span><br>
-<img src="/images/Desmond-Boateng.jpg" alt="Demsond Boateng" style="height: 250px; width:200px;"/><br>
+<img src="/images/Desmond-Boateng.jpg" alt="Demsond Boateng" style="height: 200px; width:200px;"/><br>
 Current student in [Data Science](https://www.boisestate.edu/computing/emphasis/cmse/) Emphasis<br>
 
 ## Former students
 
 ### Ph.D. students
 <span style="font-size:20px">[Michael Chiwere](https://www.boisestate.edu/computing/directory/student-directory/michael-chiwere/)</span><br>
-<img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere" style="height: 250px; width:200px;"/><br>
+<img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere" style="height: 266px; width:200px;"/><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2025<br>
 Thesis: [New developments in the Double Fourier Sphere Method: 
 Barycentric Interpolation, Semi-Lagrangian Advection, and a Hybrid Lagrangian-Eulerian Scheme](https://scholarworks.boisestate.edu/)<br>
