@@ -13,7 +13,7 @@ Current student in [Data Science](https://www.boisestate.edu/computing/emphasis/
 
 ### Ph.D. students
 <span style="font-size:20px">[Michael Chiwere](https://www.boisestate.edu/computing/directory/student-directory/michael-chiwere/)</span><br>
-<img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere" style="height: 266px; width:200px;"/><br>
+<img src="/images/Michael-Chiwere.jpg" alt="Michael Chiwere" style="height: 200px; width:266px;"/><br>
 Ph.D. in [Computational Math, Science & Engineering](https://www.boisestate.edu/computing/emphasis/cmse/), 2025<br>
 Thesis: [New developments in the Double Fourier Sphere Method: 
 Barycentric Interpolation, Semi-Lagrangian Advection, and a Hybrid Lagrangian-Eulerian Scheme](https://scholarworks.boisestate.edu/)<br>
