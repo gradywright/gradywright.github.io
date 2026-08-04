@@ -16,13 +16,13 @@ M. Chiwere, D. Fortunato, and G. B. Wright. Spectral interpolation in semi-impli
 
 <li style="margin-bottom: 6px;">
 
-T. Hangelbroek, C. Rieger, and G. B. Wright. A Semi-Lagrangian scheme on embedded manifolds using generalized local polynomial reproductions. <i>SIAM Journal on Numerical Analysis</i>, 64, 3 (2026), <a href="https://arxiv.org/abs/2508.10344">arXiv:2508.10344</a>.
+T. Hangelbroek, C. Rieger, and G. B. Wright. A Semi-Lagrangian scheme on embedded manifolds using generalized local polynomial reproductions. <i>SIAM Journal on Numerical Analysis</i>, 64, 3 (2026) (<a href="https://arxiv.org/abs/2508.10344">arXiv:2508.10344</a>, <a href="https://doi.org/10.1137/25M1788476">journal</a>).
 
 </li>
 
 <li style="margin-bottom: 6px;">
 
-T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reproductions. <i>Foundations of Computational Mathematics</i>, <a href="https://doi.org/10.1007/s10208-026-09751-z">DOI</a> (2026), <a href="https://arxiv.org/abs/2410.12973">arXiv:2410.12973</a>.
+T. Hangelbroek, C. Rieger, and G. B. Wright. Generalized local polynomial reproductions. <i>Foundations of Computational Mathematics</i>, (2026) (<a href="https://arxiv.org/abs/2410.12973">arXiv:2410.12973</a>, <a href="https://doi.org/10.1007/s10208-026-09751-z">journal</a>).
 
 </li>
 
