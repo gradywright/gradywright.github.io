@@ -4,6 +4,12 @@
 
 <li style="margin-bottom: 6px;">
 
+T. Hangelbroek, C. Rieger, and G. B. Wright. Kernel approximation beyond the native space -- with applications to approximation on manifolds. Submitted (2026), <a href="https://arxiv.org/abs/2606.28564">arXiv:2606.28564</a>.
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 M. Chiwere, D. Fortunato, and G. B. Wright. Spectral interpolation in semi-implicit semi-Lagrangian methods for shallow water equations on the sphere. Submitted (2026), <a href="https://arxiv.org/abs/2605.01313">arXiv:2605.01313</a>.
 
 </li>
