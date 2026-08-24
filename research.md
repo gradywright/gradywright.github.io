@@ -4,6 +4,12 @@
 
 <li style="margin-bottom: 6px;">
 
+M. Lowery, G. B. Wright, V. Shankar. A high-order, meshless, Lagrangian--Eulerian RBF-FD method for advection--diffusion--reaction on moving manifolds. Submitted (2026), <a href="https://arxiv.org/abs/2608.19384">arXiv:2608.19384</a>.
+
+</li>
+
+<li style="margin-bottom: 6px;">
+
 T. Hangelbroek, C. Rieger, and G. B. Wright. Kernel approximation beyond the native space -- with applications to approximation on manifolds. Submitted (2026), <a href="https://arxiv.org/abs/2606.28564">arXiv:2606.28564</a>.
 
 </li>
