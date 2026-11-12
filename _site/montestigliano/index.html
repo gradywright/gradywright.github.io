@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>RBFs for Scientific Computing</title>
+<link rel="stylesheet" type="text/css" href="./index_files/rbfsphere.css">
+</head>
+
+<body>
+<div class="header">
+<hr>
+<center>
+<h1><font style="color:white"><font style="font-size:42px">Radial Basis Functions for Scientific Computing</font> 
+</font>
+</h1>
+</center>
+<h2 style="background:#103766"><font style="color:white"><font style="font-size:32px">13-19 April, 2014</font> 
+</font>
+</h1>
+<!--<center>
+<img class="logo" src="./CMGPPLogo6b.png"><br>
+</center>-->
+<center>
+<h2 style="background:#103766"><font style="color:white"><font style="font-size:32px"><a href="http://www.montestigliano-workshop.com">Montestigliano Workshop</a>
+</font>
+</font>
+</h2>
+</center>
+</div>
+
+
+<!-- -------------------------------------------------------- -->
+
+
+<div class="main">
+
+
+<!--<h2 class="sec";style="margin-bottom:50px">Workshop Overview</h2>-->
+<div class="list">
+
+
+  <p align="justify">
+  Radial basis function (RBF) methods are advantageous for a wide-range of applications from analyzing/synthesizing "scattered" data (scalar and vector valued quantities) to numerically solving partial differential equations on geometrically difficult domains. Over the past decade these methods have advanced considerably from being shown to work on small toy problems, to being shown to compete favorably with the best current numerical approaches for some large-scale applications. A central driver behind these advances is the development of ``local’’, highly scalable, RBF techniques, such as RBF generated finite differences, RBF partition-of-unity methods, localized bases, and multilevel methods. This workshop introduces some of these new RBF methodologies and their application/implementation to certain problems arising in the geophysical and biological sciences. A particular focus will be on applications in spherical geometries, including geophysical fluid dynamics, pattern formation, and geometric modeling of biological objects. This will be a hands-on workshop with participants actively learning the theory while working on problems and implementing their own codes.
+  </p>
+
+</div>
+</div>
+
+
+<div class="main">
+<div class="sec">
+<h3>Lecture slides</h3>
+<div class="list">
+<ul>
+<li> <a href="RBFsForScientificComputingPartOne.pdf">Introduction</a> 
+<li> <a href="RBFsForScientificComputingPartTwo.pdf">Advanced topics</a>
+<li> <a href="PartOneSupplementaryLectureSlides.pdf">Supplementary material</a> 
+</ul>
+</div>
+</div>
+</div>
+
+<div class="main">
+<div class="sec">
+
+<h3>Problems</h3>
+<div class="list">
+<ul>
+<li> <a href="problem01.pdf">Problem 1</a> 
+<li> <a href="problem02.pdf">Problem 2</a>
+<li> <a href="problem03.pdf">Problem 3</a> 
+<li> <a href="problem04.pdf">Problem 4</a> 
+<li> <a href="problem05.pdf">Problem 5</a> 
+<li> <a href="problem06.pdf">Problem 6</a> 
+<li> <a href="problem07.pdf">Problem 7</a> 
+<li> <a href="problem08.pdf">Problem 8</a> 
+<li> <a href="problem09.pdf">Problem 9</a> 
+</ul>
+</div>
+</div>
+</div>
+ 
+<div class="main">
+<div class="sec">
+
+<h3>RBFSPHERE Matlab package</h3>
+<div class="list">
+<ul>
+The <b>rbfsphere</b> Matlab package contains various functions that will help with solving
+the problems above and with the projects.  There are functions for generating various types
+of node sets on the sphere, functions for making various types of plots on the sphere, 
+functions for building KD-trees and finding nearest neighbors, functions for "flat" RBF 
+interpolation on the sphere using the RBF-QR algorithm, and functions for reconstructing 
+and decomposing vector fields on sphere.
+
+<p style="margin-bottom:10px;">You can install the rbfsphere package to your <a href="http://www.mathworks.com/help/techdoc/ref/cd.html">current directory</a> by pasting the code below to your <b>MATLAB</b> command window:</p>
+<table style="width:90%;border-width:5px;border-spacing:5px;border-style:solid;border-color:#CCC;border-collapse:separate;background-color:white;margin-bottom:20px; cellpadding:8px">
+<tbody><tr><td style="font-family:'courier new'; font-size:12px; padding:8px;">
+      unzip('http://math.boisestate.edu/~wright/montestigliano/rbfsphere.zip');<br/>
+      addpath(fullfile(cd,'rbfsphere'),fullfile(cd,'rbfsphere/rbfqr'));<br/>
+      addpath(fullfile(cd,'rbfsphere/kdtree'),fullfile(cd,'rbfsphere/data'));<br/>
+      savepath
+</td></tr></tbody>
+</table>
+
+<p style="margin-bottom:10px;">Minimum energy (ME) and maximal determinant (MD) 
+nodes are also available in the rbfsphere package, but need to be downloaded separately. 
+You can download these nodes by pasting the code below to your <b>MATLAB</b> command window.
+Note that this is a large file and could take awhile to download</p>
+<table style="width:90%;border-width:5px;border-spacing:5px;border-style:solid;border-color:#CCC;border-collapse:separate;background-color:white;margin-bottom:20px; cellpadding:8px">
+<tbody><tr><td style="font-family:'courier new'; font-size:12px; padding:8px;">
+      unzip('http://math.boisestate.edu/~wright/montestigliano/nodes.zip');<br/>
+      addpath(fullfile(cd,'nodes/max_determinant'),fullfile(cd,'nodes/min_energy'));<br/>
+      savepath
+</td></tr></tbody>
+</table>
+Some of the nodes in this zip file were downloaded separately from <a href=http://web.maths.unsw.edu.au/~rsw/Sphere/>Prof. Womersely's site</a> and repackaged as .mat files.
+</ul>
+<h4>Tutorials</h4>
+<ul>
+The tutorials below give an overview of some of the functionality of the rbfsphere package.
+These tutorials were written in Matlab and "published" to PDF using the LaTeX option.
+You can either download the PDF file for the tutorial, or the associated m-file and run it
+yourself:
+<li> <a href=NodesGridsMeshesOnSphere.pdf>Nodes/grids/meshes on the sphere</a> (<a href=NodesGridsMeshesOnSphere.m>m-file</a>)
+<li> <a href=PlottingOnTheSphere.pdf>Plotting on the sphere</a> (<a href=PlottingOnTheSphere.m>m-file</a>)
+<li> <a href=NearestNeighborSearches.pdf>Nearest neighbor searching</a> (<a href=NearestNeighborSearches.m>m-file</a>)
+</div>
+</div>
+</div>
+
+<div class="main">
+<div class="sec">
+
+<p>
+<script language="JavaScript">
+<!--// 
+document.write("<i>"+"Last Updated -"
++document.lastModified + "</i>");
+//-->
+</script>
+
+</div>
+</div>
+
+
+</body>
+
+</html>

@@ -1,0 +1,85 @@
+# Students, grouped for the Students page.
+# Each person: name, optional url (their page), optional photo (file name without extension in images/students/,
+# provide both .webp and .jpg, square ~256px), and details (one HTML line each; <a> links are fine).
+# Add a new student by copying an entry into the right group; the page builds itself.
+
+- title: Current students
+  groups:
+    - title: Ph.D. students
+      cards: true
+      people:
+        - name: Jenny Thibodeau
+          url: "https://www.boisestate.edu/computing/about-us/computingdirectory/current-students-directory/jenny-thibodeau/"
+          photo: jenny-thibodeau
+          details:
+            - '<a href="https://www.boisestate.edu/computing/emphasis/cmse/">Computational Math, Science &amp; Engineering</a> Emphasis'
+        - name: Desmond Boateng
+          url: "https://www.boisestate.edu/computing/about-us/computingdirectory/current-students-directory/desmond-boateng/"
+          photo: desmond-boateng
+          details:
+            - 'Current student in <a href="https://www.boisestate.edu/computing/emphasis/cmse/">Data Science</a> Emphasis'
+
+- title: Former students
+  groups:
+    - title: Ph.D. students
+      people:
+        - name: Michael Chiwere
+          url: "https://www.boisestate.edu/computing/directory/student-directory/michael-chiwere/"
+          photo: michael-chiwere
+          details:
+            - 'Ph.D. in <a href="https://www.boisestate.edu/computing/emphasis/cmse/">Computational Math, Science &amp; Engineering</a>, 2025'
+            - 'Thesis: <a href="https://scholarworks.boisestate.edu/">New developments in the Double Fourier Sphere Method: Barycentric Interpolation, Semi-Lagrangian Advection, and a Hybrid Lagrangian-Eulerian Scheme</a>'
+            - 'Currently a Lecturer at Malawi University of Business and Applied Sciences'
+        - name: Andrew Jones
+          url: "https://andrewj3.github.io/"
+          photo: andrew-jones
+          details:
+            - 'Ph.D. in <a href="https://www.boisestate.edu/computing/emphasis/cmse/">Computational Math, Science &amp; Engineering</a>, 2022'
+            - 'Thesis: <a href="https://scholarworks.boisestate.edu/td/2023/">Meshfree Methods for PDEs on Surfaces</a>'
+            - 'Currently a Staff Scientist at Scitec'
+        - name: Kathryn Drake
+          url: "https://www.linkedin.com/in/kathryn-drake-ph-d-5708a669"
+          photo: kathryn-drake
+          details:
+            - 'Ph.D. in <a href="https://www.boisestate.edu/computing/emphasis/cmse/">Computational Math, Science &amp; Engineering</a>, 2020'
+            - 'Thesis: <a href="https://scholarworks.boisestate.edu/td/1759/">A Collection of Fast Algorithms for Scalar and Vector-Valued Data on Irregular Domains: Spherical Harmonic Analysis, Divergence-Free/Curl-Free Radial Basis Functions, and Implicit Surface Reconstruction</a>'
+            # Previously: research scientist at NAVWAR (https://www.public.navy.mil/navwar/Pages/SPAWAR-Welcome.aspx)
+            - 'Currently a Senior Automation Engineer at Apple'
+
+    - title: M.S. students
+      people:
+        - name: Sage Shaw
+          url: "https://www.colorado.edu/amath/sage-shaw"
+          details:
+            - 'M.S. in <a href="https://www.boisestate.edu/math">Applied Mathematics</a>, 2019'
+            - 'Thesis: <a href="https://scholarworks.boisestate.edu/td/1587">Radial Basis Function Finite Difference Approximations of the Laplace-Beltrami Operator</a>'
+            - 'Received Ph.D. (2025) in <a href="https://www.colorado.edu/amath/">Applied Mathematics at CU Boulder</a>'
+        - name: Kathryn Drake
+          details:
+            - 'M.S. in <a href="https://www.boisestate.edu/math">Applied Mathematics</a>, 2017'
+            - 'Thesis: <a href="https://scholarworks.boisestate.edu/td/1290">A Stable Algorithm for Divergence-Free and Curl-Free Radial Basis Functions in the Flat Limit</a>'
+            - 'Received Ph.D. (2020) in <a href="https://www.boisestate.edu/computing/emphasis/cmse/">Computational Math, Science &amp; Engineering</a> at Boise State University'
+        - name: Heather Wilber
+          url: "https://heatherw3521.github.io"
+          details:
+            - 'M.S. in <a href="https://www.boisestate.edu/math">Applied Mathematics</a>, 2016'
+            - 'Thesis: <a href="https://scholarworks.boisestate.edu/td/1158">Numerical Computing with Functions on the Sphere and Disk</a>'
+            - 'Currently an Assistant Professor in the Department of Applied Math at the University of Washington.'
+        - name: Kevin Aiton
+          url: "https://github.com/kevinwaiton"
+          details:
+            - 'M.S. in <a href="https://www.boisestate.edu/math">Applied Mathematics</a>, 2014'
+            - 'Thesis: <a href="https://scholarworks.boisestate.edu/td/813">A Radial Basis Function Partition of Unity Method for Transport on the Sphere</a>'
+            - 'Received Ph.D. (2019) in <a href="https://www.mathsci.udel.edu/">Applied Mathematics at University of Delaware</a>'
+        - name: Joseph Lohmeier
+          details:
+            - 'M.S. in <a href="https://www.boisestate.edu/math">Applied Mathematics</a>, 2011'
+            - 'Thesis: <a href="http://scholarworks.boisestate.edu/td/246">A Fictitious Point Method for Handling Boundary Conditions in the RBF-FD Method</a>'
+
+    - title: B.S. students
+      people:
+        - name: Scott Aiton
+          url: "https://github.com/scottaiton"
+          details:
+            - 'B.S. in <a href="https://www.boisestate.edu/math">Applied Mathematics</a>, 2020'
+            - 'Project: <a href="https://github.com/ThunderEgg/ThunderEgg">ThunderEgg: A parallel iterative solver for elliptic equations on adaptively refined block-structured Cartesian grids</a>'

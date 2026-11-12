@@ -1,0 +1,130 @@
+# Teaching history. Newest first. Each term: term, optional note, courses (HTML lines; <a> links fine).
+intro: I am not teaching at the moment. I am currently serving as the Interim Associate Dean of Research, Creative Activity, and Graduate Education in the <a href="https://www.boisestate.edu/coas/">College
+  of Arts and Sciences</a> at Boise State.
+sections:
+- title: Previous courses
+  terms:
+  - term: Fall 2020
+    courses:
+    - Numerical methods for differential equations
+    - Introduction to Linear Algebra
+  - term: Spring 2020
+    courses:
+    - 'Numerical Methods II: Numerical Linear Algebra (<a href="https://math.boisestate.edu/~wright/courses/m566">MATH 566</a>)'
+    - 'Special topics: Matrix Methods in Data Science (<a href="https://math.boisestate.edu/~wright/courses/m597">MATH 497/597</a>)'
+  - term: Fall 2019
+    courses:
+    - Numerical methods for differential equations (<a href="https://math.boisestate.edu/~wright/courses/m567/">MATH 567</a>)
+    - Introduction to computational mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+  - term: Spring 2019
+    courses:
+    - 'Numerical Methods II: Numerical Linear Algebra (<a href="https://math.boisestate.edu/~wright/courses/m566/">MATH 566</a>)'
+    - 'Complex Variables: (<a href="https://math.boisestate.edu/~wright/courses/m526/">MATH 426/526</a>)'
+  - term: Fall 2018
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+    - Numerical methods for differential equations (<a href="https://math.boisestate.edu/~wright/courses/m567/">MATH 567</a>)
+  - term: Spring 2018
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>) - 2 sections
+  - term: Fall 2017
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+    - Numerical Analysis I (<a href="https://math.boisestate.edu/~wright/courses/m565/">MATH 465/565</a>)
+  - term: Spring 2017
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+    - Principles of Applied Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m537/">MATH 537</a>)
+  - term: Fall 2016
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+    - Introduction to Applied Mathematics for Scientists and Engineers (<a href="https://math.boisestate.edu/~wright/courses/m527/">MATH 427/527</a>)
+  - term: Spring 2016
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+    - Partial Differential Equations (<a href="https://math.boisestate.edu/~wright/courses/m536/">MATH 436/536</a>)
+  - term: Fall 2015
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+    - 'Special topics: Approximation Theory and Spectral Methods (<a href="https://math.boisestate.edu/~wright/courses/m583/">MATH 497/583</a>)'
+  - term: Spring 2015
+    courses:
+    - Numerical Analysis II (<a href="https://math.boisestate.edu/~wright/courses/m566/">MATH 566</a>)
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+  - term: Fall 2014
+    courses:
+    - Numerical Analysis I (<a href="https://math.boisestate.edu/~wright/courses/m565/">MATH 465/565</a>)
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+    - Graduate Seminar in Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m598/">MATH 598</a>)
+  - term: Fall 2013 and Spring 2014
+    note: Sabbatical Leave
+  - term: Spring 2013
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+    - Complex Variables (<a href="https://math.boisestate.edu/~wright/courses/m526/">MATH 426/526</a>)
+  - term: Fall 2012
+    courses:
+    - Differential Equations with Matrix Theory (<a href="https://math.boisestate.edu/~wright/courses/m333/">MATH 333</a>)
+  - term: Spring 2012
+    courses:
+    - Partial Differential Equations (<a href="https://math.boisestate.edu/~wright/courses/m536/">MATH 436/536</a>)
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+  - term: Fall 2011
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+  - term: Spring 2011
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>) - 2 sections
+  - term: Fall 2010
+    courses:
+    - Introduction to Linear Algebra (<a href="https://math.boisestate.edu/~wright/courses/m301/">MATH 301</a>)
+    - Numerical Analysis II (<a href="https://math.boisestate.edu/~wright/courses/m566/">MATH 566</a>)
+  - term: Spring 2010
+    courses:
+    - Introduction to Computational Mathematics (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+  - term: Fall 2009
+    courses:
+    - Numerical Analysis I (<a href="https://math.boisestate.edu/~wright/courses/m565/">MATH 465/565</a>)
+  - term: Fall 2008
+    courses:
+    - Calculus I (<a href="https://math.boisestate.edu/~wright/courses/m170/">MATH 170</a>) - 2 sections
+    - Scientific Computing (now Intro to Computational Mathematics) (<a href="https://math.boisestate.edu/~wright/courses/m365/">MATH 365</a>)
+  - term: Spring 2008
+    courses:
+    - Calculus II (<a href="https://math.boisestate.edu/~wright/courses/m175/">MATH 175</a>)
+    - Complex Analysis (<a href="https://math.boisestate.edu/~wright/courses/m326/">MATH 326</a>)
+  - term: Fall 2007
+    courses:
+    - Calculus I (<a href="https://math.boisestate.edu/~wright/courses/m170/">MATH 170</a>)
+    - Complex Variables (<a href="https://math.boisestate.edu/~wright/courses/m526/">MATH 526</a>)
+- title: During my post-doctoral position at the <a href="http://www.math.utah.edu">University of Utah</a>
+  terms:
+  - term: Spring 2007
+    courses:
+    - Intermediate Algebra (<a href="http://www.math.utah.edu/~wright/courses/1010/">MATH 1010</a>)
+  - term: Fall 2006
+    courses:
+    - Applied Complex Variables (<a href="http://www.math.utah.edu/~wright/courses/3160/">MATH 3160</a>)
+  - term: Spring 2006
+    courses:
+    - Introduction to Numerical Analysis II (<a href="http://www.math.utah.edu/~wright/courses/5620/">MATH 5620</a>)
+  - term: Fall 2005
+    courses:
+    - Introduction to Numerical Analysis I (<a href="http://www.math.utah.edu/~wright/courses/5610/">MATH 5610</a>)
+  - term: Spring 2005
+    courses:
+    - A Survey of Numerical Analysis (<a href="http://www.math.utah.edu/~wright/courses/5600/">MATH 5600</a>)
+  - term: Fall 2004
+    courses:
+    - Applied Complex Variables (<a href="http://www.math.utah.edu/~wright/courses/3160/">MATH 3160</a>)
+  - term: Spring 2004
+    courses:
+    - Introduction to Numerical Analysis II (<a href="http://www.math.utah.edu/~wright/courses/5620/">MATH 5620</a>)
+  - term: Fall 2003
+    courses:
+    - Introduction to Numerical Analysis I (<a href="http://www.math.utah.edu/~wright/courses/5610/">MATH 5610</a>)
+- title: During my graduate studies at the <a href="http://amath.colorado.edu">University of Colorado, Boulder</a>
+  terms:
+  - term: Spring 2002
+    courses:
+    - Object-Oriented Programming and Mathematical Algorithms with Java (<a href="http://amath.colorado.edu/courses/2710/2002Sum/">AMATH 2710</a>)
