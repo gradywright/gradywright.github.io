@@ -1,0 +1,34 @@
+---
+layout: page
+title: Students
+---
+{% comment %}
+  People come from _data/students.yml. Photos live in images/students/ (square, .webp + .jpg).
+{% endcomment %}
+<div class="students">
+{% for sec in site.data.students %}
+<section aria-labelledby="sec-{{ forloop.index }}">
+  <h2 id="sec-{{ forloop.index }}">{{ sec.title }}</h2>
+  {% for g in sec.groups %}
+  <h3 class="group-label">{{ g.title }}</h3>
+  <ul class="people{% if g.cards %} people--cards{% endif %}">
+    {% for p in g.people %}
+    <li class="person{% if p.photo %} person--photo{% endif %}" data-reveal>
+      {% if p.photo %}
+      <picture class="person__photo">
+        <source srcset="{{ '/images/students/' | append: p.photo | append: '.webp' | relative_url }}" type="image/webp">
+        <img src="{{ '/images/students/' | append: p.photo | append: '.jpg' | relative_url }}" alt="{{ p.name }}" width="256" height="256" loading="lazy" decoding="async">
+      </picture>
+      {% endif %}
+      <div class="person__body">
+        <h4 class="person__name">{% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</h4>
+        {% for d in p.details %}<p>{{ d }}</p>
+        {% endfor %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</section>
+{% endfor %}
+</div>

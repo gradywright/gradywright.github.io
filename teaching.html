@@ -1,0 +1,23 @@
+---
+layout: page
+title: Teaching
+---
+<p class="lede">{{ site.data.teaching.intro }}</p>
+<div class="teaching">
+{% for sec in site.data.teaching.sections %}
+<section aria-labelledby="t-{{ forloop.index }}">
+  <h2 id="t-{{ forloop.index }}">{{ sec.title }}</h2>
+  <ol class="terms">
+    {% for t in sec.terms %}
+    <li class="term">
+      <h3 class="term__label">{{ t.term }}</h3>
+      <div class="term__body">
+        {% if t.note %}<p class="term__note">{{ t.note }}</p>{% endif %}
+        {% if t.courses %}<ul>{% for c in t.courses %}<li>{{ c }}</li>{% endfor %}</ul>{% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endfor %}
+</div>

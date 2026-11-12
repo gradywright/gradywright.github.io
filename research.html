@@ -1,0 +1,64 @@
+---
+layout: page
+title: Research
+wide: true
+---
+{% comment %}
+  Publications come from _data/publications.yml (newest first, grouped by year here).
+  Talks and software are listed at the bottom of this file.
+{% endcomment %}
+{% assign groups = site.data.publications | group_by: "year" %}
+<div class="research">
+
+<section aria-labelledby="pubs-h">
+  <h2 id="pubs-h">Select publications</h2>
+
+  <nav class="year-nav" aria-label="Jump to year">
+    <ul>
+      {% for g in groups %}<li><a href="#y{{ g.name }}">{{ g.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  {% for g in groups %}
+  <section class="year" id="y{{ g.name }}" aria-labelledby="y{{ g.name }}-h">
+    <h3 class="year__label" id="y{{ g.name }}-h">{{ g.name }}</h3>
+    <ol class="pubs">
+      {% for p in g.items %}
+      <li class="pub" data-reveal>
+        <p class="pub__title">{{ p.title }}</p>
+        <p class="pub__authors">{{ p.authors | replace: 'G. B. Wright', '<strong>G. B. Wright</strong>' | replace: 'G.B. Wright', '<strong>G.B. Wright</strong>' | replace: 'G. Wright', '<strong>G. Wright</strong>' }}</p>
+        <p class="pub__venue">{{ p.venue }}</p>
+        {% if p.links %}
+        <ul class="pub__links">
+          {% for l in p.links %}<li><a class="chip" href="{{ l.url }}" aria-label="{{ l.label }}: {{ p.title }}">{{ l.label }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endfor %}
+</section>
+
+<div class="split research__more">
+  <section aria-labelledby="talks-h">
+    <h2 id="talks-h">Conference/Seminar/Workshop talks</h2>
+    <ul class="node-list">
+      <li><a href="https://events.math.unipd.it/drwa13/">Dolomites Research Week on Approximation (DRWA13)</a>, Sept. 8-13, 2013, <a href="http://drna.padovauniversitypress.it/volume/6">published slides</a>.</li>
+      <li><a href="montestigliano/index.html">Montestigliano workshop</a>, April 13-19, 2014.</li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="software-h">
+    <h2 id="software-h">Software contributions</h2>
+    <ul class="node-list">
+      <li><a href="http://www.chebfun.org">Chebfun</a></li>
+      <li><a href="https://github.com/gradywright/spherepts">SpherePts</a></li>
+      <li><a href="https://github.com/gradywright/cfpu">CFPU</a></li>
+    </ul>
+  </section>
+</div>
+
+</div>
